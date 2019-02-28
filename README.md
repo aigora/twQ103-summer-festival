@@ -5,10 +5,10 @@ Con este programa se podrá acceder a la organización de un festival y comprar 
 ## Integrantes del equipo
 
 Alba Navarro
-Paula de Paz Gómez
+Paula de Paz Gómez, pauladepaz
 Claudia Alonso Alcobendas, Claudialonsoalc
 
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Poner en práctica la teoría aprendida en clase, realizar el trabajo con éxito y ¡que nos compren muchas entradas!
