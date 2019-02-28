@@ -1,10 +1,13 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Con este programa se podrá acceder a la organización de un festival y comprar las entradas para todos los conciertos,actuciones individuales y/o acceso al camping. 
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Alba Navarro
+Paula de Paz Gómez
+Claudia Alonso Alcobendas, Claudialonsoalc
+
 
 ## Objetivos del trabajo
 
