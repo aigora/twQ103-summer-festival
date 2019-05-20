@@ -1,0 +1,35 @@
+#include <iostream>
+#include <fstream>
+#include <vector>
+
+using namespace std;
+
+struct Asistente {
+    string nombre, dni, cuenta, correo;
+    int nacimiento;
+};
+
+struct Concierto
+{
+    char banda[20];
+    int precio, hora;
+};
+
+vector<Concierto> leerFichero() {
+    FILE *conciertosFile;
+    conciertosFile = fopen("conciertos.txt", "r");
+    Concierto concierto;
+    vector<Concierto> conciertos;
+
+    if (conciertosFile == NULL) {
+        cout << "Error al abrir el archivo" << endl;
+        exit(1);
+    }
+
+    while (!feof(conciertosFile)) {
+        fscanf(conciertosFile, "%s %d %d", concierto.banda, &concierto.precio, &concierto.hora);
+        conciertos.push_back(concierto);
+    }
+
+    return conciertos;
+}
