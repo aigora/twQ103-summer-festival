@@ -1,0 +1,3 @@
+Strokes 100 10
+Rosalia 85 18
+Beyonce 250 20
